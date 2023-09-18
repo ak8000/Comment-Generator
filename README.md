@@ -1,4 +1,4 @@
-# Google Colab Project: Automated Comment and Tweet Generator Using OpenAI API
+# Automated Comment and Tweet Generator Using OpenAI API
 
 ## **Introduction**
 
