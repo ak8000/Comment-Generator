@@ -45,7 +45,7 @@ Feel free to contribute to this project or adapt it to fit your specific needs. 
 
 ## **PS** 
 
-Because of all the changes happening at X, its API is not working is of now to automatically post these tweets and comments, so it would either require manual input or the usage of third party tools
+Because of all the changes happening at X, its API is not working as of now to automatically post these tweets and comments, so it would either require manual input or the usage of third party tools.
 
 
 
