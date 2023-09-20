@@ -4,6 +4,8 @@
 
 When I learned about [Google Colab](https://colab.research.google.com/), I knew I had to give it a try. Google Colab offers a free Jupyter notebook environment that requires no setup and runs entirely in the cloud, enabling you to write and execute Python code effortlessly.
 
+This small code is part of the bigger project that I am currently working on, written in React, and using AWS. Because I cannot share the project due to other parties envolved, i decided to create a small Google Colab Application, that completes one of the important parts of the projct.
+
 ## **Inspiration**
 
 With the recent changes happening to **X** (formerly known as Twitter), I decided to focus my efforts on this platform. X has evolved into a main channel for public discourse, news sharing, and brand campaigns. That's why I created this project, a demo tool that can be used to expedite media campaigns.
