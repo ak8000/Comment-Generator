@@ -4,7 +4,7 @@
 
 When I learned about [Google Colab](https://colab.research.google.com/), I knew I had to give it a try. Google Colab offers a free Jupyter notebook environment that requires no setup and runs entirely in the cloud, enabling you to write and execute Python code effortlessly.
 
-This idea is part of the bigger project that I am currently working on, written in React, and using AWS. Because I cannot share the project due to other parties envolved, i decided to create a small Google Colab Application, that completes one of the important parts of the projct to show some of the functions involved in the project
+This idea is part of the bigger project that I am currently working on. This project is a Serverless Web Application on AWS, using Dynamo DB, Lambda Functions, API Gateway, S3, and React. Because I cannot share the project due to other parties envolved, i decided to create a small Google Colab Application, that completes one of the important parts of the projct to show some of the functions involved in the project
 
 ## **Inspiration**
 
